@@ -51,13 +51,3 @@ The app is designed to:
 
 ---
 
-## Getting Started
-
-### 🔧 Prerequisites
-
-- Python 3.10+
-- Streamlit
-- Internet connection
-- Google API Key
-
-cd ResumeParserApp
