@@ -1,4 +1,4 @@
-# Document Parser Bot** – LangChain + Google Gemini
+# Document Parser Bot – LangChain + Google Gemini
 
 A Streamlit application that allows users to upload resumes or any document (PDF, DOCX, TXT) and extract structured information using Google Gemini and LangChain.
 
